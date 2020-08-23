@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on IncludeHer</title>
+    <link>http://includehermovement.com.au/news/</link>
+    <description>Recent content in News on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
+    
+	<atom:link href="http://includehermovement.com.au/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Include Her Movement Sets Up Socials</title>
+      <link>http://includehermovement.com.au/news/post-1/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://includehermovement.com.au/news/post-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

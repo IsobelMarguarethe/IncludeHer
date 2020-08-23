@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on IncludeHer</title>
+    <link>http://includehermovement.com.au/tags/</link>
+    <description>Recent content in Tags on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://includehermovement.com.au/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>author</title>
+      <link>http://includehermovement.com.au/tags/author/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>author profile</title>
+      <link>http://includehermovement.com.au/tags/author-profile/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/author-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historic</title>
+      <link>http://includehermovement.com.au/tags/historic/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/historic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historic scientist profile</title>
+      <link>http://includehermovement.com.au/tags/historic-scientist-profile/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/historic-scientist-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profile</title>
+      <link>http://includehermovement.com.au/tags/profile/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientist</title>
+      <link>http://includehermovement.com.au/tags/scientist/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/scientist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://includehermovement.com.au/tags/contact/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logo</title>
+      <link>http://includehermovement.com.au/tags/logo/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/logo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>http://includehermovement.com.au/tags/social/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://includehermovement.com.au/tags/social/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
