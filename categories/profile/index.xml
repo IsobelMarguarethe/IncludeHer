@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profile on IncludeHer</title>
-    <link>http://includehermovement.com.au/categories/profile/</link>
+    <link>https://isobelmarguarethe.github.io/categories/profile/</link>
     <description>Recent content in Profile on IncludeHer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://includehermovement.com.au/categories/profile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isobelmarguarethe.github.io/categories/profile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Author profile: Isobel</title>
-      <link>http://includehermovement.com.au/posts/post-isobel/</link>
+      <link>https://isobelmarguarethe.github.io/posts/post-isobel/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://includehermovement.com.au/posts/post-isobel/</guid>
+      <guid>https://isobelmarguarethe.github.io/posts/post-isobel/</guid>
       <description>Name: Isobel Romero-Shaw
 Field: Gravitational Wave Astrophysics
 Bio: I&amp;rsquo;m currently a PhD student at Monash university, Melbourne, Australia, but I was born and raised in the beautiful city of Bath, UK.</description>
@@ -24,10 +24,10 @@ Bio: I&amp;rsquo;m currently a PhD student at Monash university, Melbourne, Aust
     
     <item>
       <title>Historic scientist profile: Ada Lovelace</title>
-      <link>http://includehermovement.com.au/posts/post-ada-lovelace/</link>
+      <link>https://isobelmarguarethe.github.io/posts/post-ada-lovelace/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://includehermovement.com.au/posts/post-ada-lovelace/</guid>
+      <guid>https://isobelmarguarethe.github.io/posts/post-ada-lovelace/</guid>
       <description>Name: Ada Lovelace (Augusta Ada King, Countess of Lovelace)
 Field: Computer Science and Mathematics</description>
     </item>
