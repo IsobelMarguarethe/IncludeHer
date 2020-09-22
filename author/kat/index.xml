@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kat on IncludeHer</title>
+    <link>https://isobelmarguarethe.github.io/IncludeHer/author/kat/</link>
+    <description>Recent content in Kat on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/author/kat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author profile: Kat</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-kat/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-kat/</guid>
+      <description>Name: Kat Ross
+Field: Galaxy Evolution and Black Hole Variability</description>
+    </item>
+    
+  </channel>
+</rss>

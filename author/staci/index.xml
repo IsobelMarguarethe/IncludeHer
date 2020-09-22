@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staci on IncludeHer</title>
+    <link>https://isobelmarguarethe.github.io/IncludeHer/author/staci/</link>
+    <description>Recent content in Staci on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/author/staci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author profile: Staci</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-staci/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-staci/</guid>
+      <description>Name: Staci Pearlman
+Field: Computational Chemistry and Science Communication
+Bio: I have just graduated from a Bachelor of Science at the Australian National University, with a major in chemistry.</description>
+    </item>
+    
+  </channel>
+</rss>

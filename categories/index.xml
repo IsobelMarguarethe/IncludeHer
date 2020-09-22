@@ -6,7 +6,7 @@
     <description>Recent content in Categories on IncludeHer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Author</title>
       <link>https://isobelmarguarethe.github.io/IncludeHer/categories/author/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://isobelmarguarethe.github.io/IncludeHer/categories/author/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Author Profile</title>
       <link>https://isobelmarguarethe.github.io/IncludeHer/categories/author-profile/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://isobelmarguarethe.github.io/IncludeHer/categories/author-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/categories/profile/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/categories/profile/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://isobelmarguarethe.github.io/IncludeHer/categories/historic-scientist-profile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Profile</title>
-      <link>https://isobelmarguarethe.github.io/IncludeHer/categories/profile/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://isobelmarguarethe.github.io/IncludeHer/categories/profile/</guid>
       <description></description>
     </item>
     

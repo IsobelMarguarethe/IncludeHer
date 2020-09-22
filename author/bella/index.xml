@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bella on IncludeHer</title>
+    <link>https://isobelmarguarethe.github.io/IncludeHer/author/bella/</link>
+    <description>Recent content in Bella on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/author/bella/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author profile: Bella</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-bella/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-bella/</guid>
+      <description>Name: Isabella Gerrard
+Field: Computational Star Formation
+Bio: I am currently a PhD candidate at the Australian National University (Canberra), originally from Bega NSW (yes, like the cheese!</description>
+    </item>
+    
+  </channel>
+</rss>

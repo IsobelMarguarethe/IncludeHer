@@ -6,10 +6,43 @@
     <description>Recent content in Profile on IncludeHer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/categories/profile/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Author profile: Staci</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-staci/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-staci/</guid>
+      <description>Name: Staci Pearlman
+Field: Computational Chemistry and Science Communication
+Bio: I have just graduated from a Bachelor of Science at the Australian National University, with a major in chemistry.</description>
+    </item>
+    
+    <item>
+      <title>Author profile: Andrew</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-andrew/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-andrew/</guid>
+      <description>Name: Andrew Battisti
+Field: Galaxy Evolution
+Bio: I am a Postdoctoral Fellow in the Research School of Astronomy and Astrophysics at the Australian National University.</description>
+    </item>
+    
+    <item>
+      <title>Author profile: Bella</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-bella/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-bella/</guid>
+      <description>Name: Isabella Gerrard
+Field: Computational Star Formation
+Bio: I am currently a PhD candidate at the Australian National University (Canberra), originally from Bega NSW (yes, like the cheese!</description>
+    </item>
     
     <item>
       <title>Author profile: Isobel</title>
@@ -30,6 +63,16 @@ Bio: I&amp;rsquo;m currently a PhD student at Monash university, Melbourne, Aust
       <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-ada-lovelace/</guid>
       <description>Name: Ada Lovelace (Augusta Ada King, Countess of Lovelace)
 Field: Computer Science and Mathematics</description>
+    </item>
+    
+    <item>
+      <title>Author profile: Kat</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-kat/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-kat/</guid>
+      <description>Name: Kat Ross
+Field: Galaxy Evolution and Black Hole Variability</description>
     </item>
     
   </channel>
