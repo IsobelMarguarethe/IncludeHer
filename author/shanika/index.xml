@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shanika on IncludeHer</title>
+    <link>https://isobelmarguarethe.github.io/IncludeHer/author/shanika/</link>
+    <description>Recent content in Shanika on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/author/shanika/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author profile: Shanika</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-shanika/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-shanika/</guid>
+      <description>Name: Shanika Galaudage
+Field: Gravitational-Wave Astrophysics
+Bio: I am a PhD candidate at Monash University and a member of OzGrav and the LIGO collaboration.</description>
+    </item>
+    
+  </channel>
+</rss>
