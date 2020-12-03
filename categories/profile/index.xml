@@ -6,10 +6,21 @@
     <description>Recent content in Profile on IncludeHer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://isobelmarguarethe.github.io/IncludeHer/categories/profile/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Author profile: Nataliea</title>
+      <link>https://isobelmarguarethe.github.io/IncludeHer/posts/post-nataliea/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-nataliea/</guid>
+      <description>Name: Nataliea Lowson (she/her)
+Field: Astrophysics
+Bio: I’m a PhD candidate at the University of Southern Queensland who’s characterising the atmospheres of exoplanets.</description>
+    </item>
     
     <item>
       <title>Author profile: Shanika</title>
@@ -72,7 +83,7 @@ Bio: I am currently a PhD candidate at the Australian National University (Canbe
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-isobel/</guid>
-      <description>Name: Isobel Romero-Shaw
+      <description>Name: Isobel Romero-Shaw (she/her)
 Field: Gravitational Wave Astrophysics
 Bio: I&amp;rsquo;m currently a PhD student at Monash university, Melbourne, Australia, but I was born and raised in the beautiful city of Bath, UK.</description>
     </item>
@@ -93,7 +104,7 @@ Field: Computer Science and Mathematics</description>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://isobelmarguarethe.github.io/IncludeHer/posts/post-kat/</guid>
-      <description>Name: Kat Ross
+      <description>Name: Kat Ross (she/her)
 Field: Galaxy Evolution and Black Hole Variability</description>
     </item>
     
